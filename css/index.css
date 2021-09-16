@@ -1,0 +1,38 @@
+
+header {
+  text-align: center;
+  border-radius: 25px;
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 1em;
+  background-color:#45b3e0;
+  font: "Times New Roman"
+}
+
+img {
+  float: right;
+  max-height: 200px;
+}
+
+main {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 1em;
+    font: "Times New Roman"
+}
+
+main h1 {
+    border-bottom: 1px solid black;
+}
+
+ footer {
+    text-align: center;
+    border-radius: 25px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 1em;
+    background-color:#45b3e0;
+    font: "Times New Roman"
+ }
+
+ 

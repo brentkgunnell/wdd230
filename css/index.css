@@ -12,7 +12,8 @@ header {
 
 img {
   float: right;
-  max-height: 200px;
+  max-width: 150px;
+  height: auto;
 }
 
 main {

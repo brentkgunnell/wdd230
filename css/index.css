@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+
+a:link, a:visited {
+  color: black;
+}
 
 header {
   text-align: center;
@@ -7,7 +11,7 @@ header {
   margin: 0 auto;
   padding: 1em;
   background-color:#45b3e0;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
 }
 
 img {
@@ -20,7 +24,7 @@ main {
     max-width: 940px;
     margin: 0 auto;
     padding: 1em;
-    font-family: "Roboto";
+    font-family: 'Open Sans', san-serif;
 }
 
 main h2 {
@@ -34,11 +38,10 @@ main h2 {
     margin: 0 auto;
     padding: 1em;
     background-color:#45b3e0;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
  }
+p {
+  font-family: 'Open Sans', san-serif;
+}
 
- a:link, a:visited {
-   color: black;
- }
- 
  

@@ -37,5 +37,8 @@ main h2 {
     font-family: "Roboto";
  }
 
+ a: visited {
+   color: black;
+ }
  
  
